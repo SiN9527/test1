@@ -8,7 +8,7 @@
     </head>
 
     <body>
-        Success, ${user}-${pwd}, haha PY<br />
+        Success, ${user}-${pwd}, haha PY*2<br />
     </body>
 
     </html>
